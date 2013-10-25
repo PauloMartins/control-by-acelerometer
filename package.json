@@ -1,0 +1,11 @@
+{
+	"name": "ControlByAlerometer",
+	"version": "0.0.1",
+	"description": "Control box with acelerometer",
+	"dependencies": {
+		"socket.io": "latest",
+		"express": "latest",
+		"jade": "latest"
+	},
+	"author": "developer"
+}
